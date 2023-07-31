@@ -2,7 +2,7 @@
 
 ## Overview
 
-Visual representations of the specimens collected or identified over the career of Vicki Funk, a botanist who worked for the smithsonian. Created during an internship with the [Smithsonian Institution's Data Science Lab[(https://sidatasciencelab.github.io/). This project uses data from the [Bionomia](https://bionomia.net/) database. The project contains a [bar graph](###-Bar-Graph) of specimens collected each year, a [pie chart](###-Pie-Chart) of the different countries visited to collect specimens, and an interactive [leaflet](#leaflet) of collected specimens. The bar graph and pie chart sections have an example of what each graph looks like; to view the leaflet, download and run this HTML file. This project incorporated R and gave me experience with R, RStudio, graphs, charts, data analysis, and problem solving.
+Visual representations of the specimens collected or identified over the career of Vicki Funk, a botanist who worked for the smithsonian. Created during an internship with the [Smithsonian Institution's Data Science Lab](https://sidatasciencelab.github.io/). This project uses data from the [Bionomia](https://bionomia.net/) database. The project contains a [bar graph](###-Bar-Graph) of specimens collected each year, a [pie chart](###-Pie-Chart) of the different countries visited to collect specimens, and an interactive [leaflet](#leaflet) of collected specimens. The bar graph and pie chart sections have an example of what each graph looks like; to view the leaflet, download and run this HTML file. This project incorporated R and gave me experience with R, RStudio, graphs, charts, data analysis, and problem solving.
 
 ## Features
 
